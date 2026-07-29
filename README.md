@@ -178,4 +178,6 @@ Please, make sure all steps are using **the same** python version and that you h
 
 ## License
 
+https://wandb.ai/agarra3-western-governors-university/nyc_airbnb
+
 [License](LICENSE.txt)
